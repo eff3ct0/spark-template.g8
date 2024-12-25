@@ -1,4 +1,4 @@
-package $organization$.$name$
+package $package$
 
 /**
  * Everyone's favourite wordcount example.
